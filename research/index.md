@@ -8,4 +8,5 @@ title: Research
 
 
 [Turkish Keyphrase Extraction From Web Pages With BERT](https://stmaiteam.github.io/research/keyphrase_extraction)
-Ayan, Emre Tolga, et al. "Turkish Keyphrase Extraction from Web Pages with BERT." 2021 29th Signal Processing and Communications Applications Conference (SIU). IEEE, 2021.
+
+([LINK](https://stmaiteam.github.io/research/keyphrase_extraction)) Ayan, Emre Tolga, et al. "Turkish Keyphrase Extraction from Web Pages with BERT." 2021 29th Signal Processing and Communications Applications Conference (SIU). IEEE, 2021.
