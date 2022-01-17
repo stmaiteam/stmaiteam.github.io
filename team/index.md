@@ -12,7 +12,7 @@ redirect_from:
 
 ## Current Members
 
-Our team is focused on solving challenging machine learning problems. Our main work generally covers NLP, information retrieval, and cybersecurity, but we also have expertise in bioinformatics, predictive maintenance, ML-based forecasting, and image processing.
+Our team is focused on solving challenging machine learning problems. Our main work generally covers NLP, information retrieval, and cybersecurity, but we also have expertise in bioinformatics, healthcare, predictive maintenance, ML-based forecasting, finance, and image processing.
 
 {% capture html %}
 {% include team-list.html role="pi" group="current" %}
