@@ -8,9 +8,6 @@ layout: default
 
 {% include figure.html image=page.image %}
 
-{% capture html %}
-{% include role.html type=page.role text=true %}
-{% endcapture %}
 
 {% include centerer.html html=html %}
 
@@ -59,7 +56,7 @@ layout: default
 {% assign search =  search | strip | prepend: "/research/?search=" %}
 
 {% capture text %}
-{{ page.title }}'s papers
+{{ page.title }}
 {% endcapture %}
 
 {% capture html %}
