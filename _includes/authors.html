@@ -1,0 +1,15 @@
+
+{%- assign text = include.type -%}
+
+
+{%- if include.text -%}
+{%- else -%}
+{%- assign tooltip = text -%}
+{%- endif -%}
+
+<span href="{{ link }}" class="role" data-tooltip="{{ tooltip }}" aria-label="{{ tooltip }}">
+  <i class="{{ icon }} {%- if include.large -%}fa-lg{%- endif -%}"></i>
+  {%- if include.text -%}
+  <span class="authors">{{- text -}}</span>
+  {%- endif -%}
+</span>
