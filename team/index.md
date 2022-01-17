@@ -23,6 +23,9 @@ the work we're doing, please reach out!
 {% include team-list.html role="undergrad" group="current" %}
 {% include team-list.html role="programmer" group="current" %}
 {% include team-list.html role="mascot" group="current" %}
+{% include team-list.html role="manager" group="current" %}
+{% include team-list.html role="team_leader" group="current" %}
+{% include team-list.html role="senior_data_scientist" group="current" %}
 {% include team-list.html role="data_scientist" group="current" %}
 {% endcapture %}
 
