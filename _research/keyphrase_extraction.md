@@ -8,6 +8,6 @@ Keyword extraction is a natural language processing task that enables the extrac
 
 Related Material:
 
-some text and [here is possible to download the file in PDF][1]
+Results for the paper: [Click Here][1]
 
-[1]:{{ site.url }}/materials/keyphrase_extraction/test.txt
+[1]:{{ site.url }}/materials/keyphrase_extraction/results.tar.xz
