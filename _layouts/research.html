@@ -8,6 +8,10 @@ layout: default
 
 {% include figure.html image=page.image %}
 
+{% capture html %}
+{% include authors.html type=page.authors text=true %}
+{% endcapture %}
+
 {% include centerer.html html=html %}
 
 {{ content }}
