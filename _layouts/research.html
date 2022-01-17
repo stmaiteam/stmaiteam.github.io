@@ -10,32 +10,6 @@ layout: default
 
 {% include centerer.html html=html %}
 
-{% capture html %}
-{% if page.website %}
-{% include social-link.html type="website" link=page.website %}
-{% endif %}
-{% if page.email %}
-{% include social-link.html type="email" link=page.email %}
-{% endif %}
-{% if page.google %}
-{% include social-link.html type="google" link=page.google %}
-{% endif %}
-{% if page.github %}
-{% include social-link.html type="github" link=page.github %}
-{% endif %}
-{% if page.twitter %}
-{% include social-link.html type="twitter" link=page.twitter %}
-{% endif %}
-{% if page.instagram %}
-{% include social-link.html type="instagram" link=page.instagram %}
-{% endif %}
-{% if page.youtube %}
-{% include social-link.html type="youtube" link=page.youtube %}
-{% endif %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
 {{ content }}
 
 {% assign names = "" | split: ',' %}
