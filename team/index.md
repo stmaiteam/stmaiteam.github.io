@@ -12,9 +12,7 @@ redirect_from:
 
 ## Current Members
 
-Our lab is a team focused on improving the reach, accuracy, and speed of computational analysis, specifically as
-it relates to genomics (and Biology more broadly).  We are a varied and friendly bunch.  If you're interested in 
-the work we're doing, please reach out!
+Our team is focused on solving challenging machine learning problems. Our main work generally covers NLP, information retrieval, and cybersecurity, but we also have expertise in bioinformatics, predictive maintenance, ML-based forecasting, and image processing.
 
 {% capture html %}
 {% include team-list.html role="pi" group="current" %}
@@ -32,7 +30,7 @@ the work we're doing, please reach out!
 {% include centerer.html html=html %}
 
 <!-- section break -->
-
+<!--
 ## Alumni
 
 We are incredibly proud of all of the COMBINE-lab alumni who have passed through the lab, for whatever period of time they were with us. Below
@@ -43,5 +41,5 @@ is a list of lab alumni (if you feel you're missing from the list and would like
 {% include team-list.html role="phd_g" group="alum" mini="true" %}
 {% include team-list.html role="undergrad" group="alum" mini="true" %}
 {% endcapture %}
-
+-->
 {% include centerer.html html=html %}
