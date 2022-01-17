@@ -38,8 +38,15 @@ defaults:
     values:
       layout: post
 
+  - scope:
+      type: "research"
+    values:
+      layout: study
+
 collections:
   members:
+    output: true
+  research:
     output: true
 
 # sass settings
