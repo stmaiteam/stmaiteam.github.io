@@ -37,6 +37,10 @@ defaults:
       type: "posts"
     values:
       layout: post
+  - scope:
+      type: "research"
+    values:
+      layout: research
 
 
 
