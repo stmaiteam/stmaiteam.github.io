@@ -58,6 +58,7 @@ layout: default
 
 {% assign search =  search | strip | prepend: "/research/?search=" %}
 
+<!--
 {% capture text %}
 {{ page.title }}'s papers
 {% endcapture %}
@@ -65,5 +66,6 @@ layout: default
 {% capture html %}
 {% include big-link.html icon="fas fa-book-open" link=search text=text %}
 {% endcapture %}
+-->
 
 {% include centerer.html html=html %}
