@@ -1,6 +1,6 @@
 ---
 title: Hacı Ali Duru
-image:
+image:https://turkishkpe.github.io/images/team_ali.jpeg
 github: 
 role: team_leader
 group: current
