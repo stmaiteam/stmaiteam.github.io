@@ -9,6 +9,7 @@ Keyword extraction is a natural language processing task that enables the extrac
 Related Material:
 
 Article: [Click Here][1]
+
 Results for the paper: [Click Here][1]
 
 [1]: https://ieeexplore.ieee.org/document/9477842
