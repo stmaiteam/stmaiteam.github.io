@@ -10,8 +10,9 @@ Related Material:
 
 Article: [Click Here][1]
 
+
 Results for the paper: [Click Here][2]
 
-[1]: https://ieeexplore.ieee.org/document/9477842
+[1]:https://ieeexplore.ieee.org/document/9477842
 
 [2]:{{ site.url }}/materials/keyphrase_extraction/results.tar.xz
